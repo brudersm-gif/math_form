@@ -1,4 +1,3 @@
-# math_form
 <!DOCTYPE html>
 <html>
   <head>
@@ -19,7 +18,7 @@
     <input type="radio" name="choice2" value="choice2">&frac13;n<br/>
     <input type="radio" name="choice2" value="choice2">&frac16;n<br/>
     <input type="radio" name="choice2" value="choice2">&frac18;n<br/>
-    <input type="radio" name="choice2" value="choice2">&frac19;n<br/>
+    <input type="radio" name="choice2" value="choice2">1n<br/>
     <p>What is the solution to the inequality 5x-4&ge;26</p>
     <input type="radio" name="choice3" value="choice3">x&ge;4<br/>
     <input type="radio" name="choice3" value="choice3">x&ge;1<br/>
