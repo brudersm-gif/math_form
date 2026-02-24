@@ -14,7 +14,7 @@
     <input type="radio" name="choice" value="choice">x=6<br/>
     <input type="radio" name="choice" value="choice">x=3<br/>
     <input type="radio" name="choice" value="choice">x=2
-    <p>Select the solution to the equation &frac14;n&divide; &frac68;</p>
+    <p>Select the solution to the equation &frac14;n &divide; 4</p>
     <input type="radio" name="choice2" value="choice2">&frac13;n<br/>
     <input type="radio" name="choice2" value="choice2">&frac16;n<br/>
     <input type="radio" name="choice2" value="choice2">&frac18;n<br/>
